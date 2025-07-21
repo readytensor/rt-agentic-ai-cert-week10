@@ -28,3 +28,5 @@ temp.csv
 test.py
 
 chroma_db/
+
+.gradio/
