@@ -1,0 +1,5 @@
+langchain~= 0.3.26
+langchain_groq~=0.3.6
+langchain-core~=0.3.69
+python-dotenv~=1.1.1
+streamlit~=1.47.0
