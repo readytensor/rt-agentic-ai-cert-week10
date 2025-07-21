@@ -54,6 +54,17 @@ GROQ_API_KEY=your-api-key-here
 6. `python example2_rag/main.py` to run the RAG service
 7. Open your browser and go to `http://localhost:8000/docs` to interact with the API.
 
+### Lesson 2: Gradio App
+
+1. `cd code/lesson2_gradio/`
+2. `python -m venv venv` (if not already created)
+3. `source venv/bin/activate` (or `venv\Scripts\activate` on Windows)
+4. `pip install -r requirements.txt`
+5. `python main.py` to run the Gradio app
+6. Open your browser and go to `http://localhost:7860` to interact with the app.
+
+---
+
 ## License
 
 This project is licensed under the MIT License – see the [LICENSE](LICENSE) file for details.
