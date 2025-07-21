@@ -35,13 +35,24 @@ GROQ_API_KEY=your-api-key-here
 
 ## Usage
 
-### Lesson 1a: FastAPI Service
+### Lesson 1a: FastAPI Service - Example 1 (Simple Service)
 
 1. `cd code/lesson1a_fastapi/`
-2. `python -m venv venv`
+2. `python -m venv venv` (if not already created)
 3. `source venv/bin/activate` (or `venv\Scripts\activate` on Windows)
 4. `pip install -r requirements.txt`
-5. `python main.py`
+5. `python example/main.py` for example 1 (simple service)
+6. Open your browser and go to `http://localhost:8000/docs` to interact with the API.
+
+### Lesson 1a: FastAPI Service - Example 2 (RAG-based Service)
+
+1. `cd code/lesson1a_fastapi/`
+2. `python -m venv venv` (if not already created)
+3. `source venv/bin/activate` (or `venv\Scripts\activate` on Windows)
+4. `pip install -r requirements.txt` (if not already installed)
+5. `python example2_rag/setup_data.py` to ingest data into the RAG database (one-time only)
+6. `python example2_rag/main.py` to run the RAG service
+7. Open your browser and go to `http://localhost:8000/docs` to interact with the API.
 
 ## License
 
