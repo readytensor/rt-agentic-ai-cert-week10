@@ -1,4 +1,4 @@
-![AAIDC-wk10-l3-streamlit.jpeg](AAIDC-wk10-l3-streamlit.jpeg)
+![AAIDC-wk10-l3-streamlit.jpeg](AAIDC-wk10-l3-streamlit-v2.jpeg)
 
 --DIVIDER--
 
