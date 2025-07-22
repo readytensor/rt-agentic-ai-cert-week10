@@ -57,11 +57,28 @@ GROQ_API_KEY=your-api-key-here
 ### Lesson 2: Gradio App
 
 1. `cd code/lesson2_gradio/`
-2. `python -m venv venv` (if not already created)
-3. `source venv/bin/activate` (or `venv\Scripts\activate` on Windows)
-4. `pip install -r requirements.txt`
-5. `python main.py` to run the Gradio app
-6. Open your browser and go to `http://localhost:7860` to interact with the app.
+2. Create a `.env` file with your Groq API key:
+   ```
+   GROQ_API_KEY=your_groq_api_key_here
+   ```
+3. `python -m venv venv` (if not already created)
+4. `source venv/bin/activate` (or `venv\Scripts\activate` on Windows)
+5. `pip install -r requirements.txt`
+6. `python main.py` to run the Gradio app
+7. Open your browser and go to `http://localhost:7860` to interact with the app.
+
+### Lesson 3: Streamlit App
+
+1. `cd code/lesson3_streamlit/`
+2. Create a `.env` file with your Groq API key:
+   ```
+   GROQ_API_KEY=your_groq_api_key_here
+   ```
+3. `python -m venv venv` (if not already created)
+4. `source venv/bin/activate` (or `venv\Scripts\activate` on Windows)
+5. `pip install -r requirements.txt`
+6. `streamlit run main.py` to run the Streamlit app
+7. Open your browser and go to `http://localhost:8501` to interact with the app.
 
 ---
 
