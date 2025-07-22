@@ -7,6 +7,7 @@
 [🏠 Home - All Lessons](https://app.readytensor.ai/hubs/ready_tensor_certifications)
 
 [⬅️ Previous - FastAPI Fundamentals](https://app.readytensor.ai/publications/3FLDYUhZnlTu)
+[➡️ Next - Gradio for Demos](https://app.readytensor.ai/publications/pZxv9sd7Bk75)
 
 ---
 
@@ -56,20 +57,20 @@ The beauty of what we're about to do is that once you understand this process, y
 
 :::caution{title="Caution"}
 
-<h2>Before You Go Live: Protect Yourself from Surprise Bills</h2>
-
-If your chatbot makes real API calls to paid services like OpenAI, be careful when deploying it publicly. Once it’s online, anyone with the link can send queries — and every one of those costs you money.
-
-We recommend one of two options:
-
-- **Turn your app on only when needed.** You can keep it deployed but shut down the service (or restrict access) when you’re not actively demoing it.
-- **Set a hard usage cap with your provider.** Platforms like OpenAI let you define monthly spend limits or alert thresholds. Use them.
-
-This lesson is about learning deployment, not racking up bills. So take a few minutes to make sure you’re not accidentally building a 24/7 LLM vending machine for the internet.
-
-:::
-
----
+ <h2>Before You Go Live: Protect Yourself from Surprise Bills</h2>
+ 
+ If your chatbot makes real API calls to paid services like OpenAI, be careful when deploying it publicly. Once it’s online, anyone with the link can send queries — and every one of those costs you money.
+ 
+ We recommend one of two options:
+ 
+ - **Turn your app on only when needed.** You can keep it deployed but shut down the service (or restrict access) when you’re not actively demoing it.
+ - **Set a hard usage cap with your provider.** Platforms like OpenAI let you define monthly spend limits or alert thresholds. Use them.
+ 
+ This lesson is about learning deployment, not racking up bills. So take a few minutes to make sure you’re not accidentally building a 24/7 LLM vending machine for the internet.
+ 
+ :::
+ 
+ ---
 
 --DIVIDER--
 
@@ -134,5 +135,6 @@ This is the moment when you truly transition from learning AI to building AI pro
 [🏠 Home - All Lessons](https://app.readytensor.ai/hubs/ready_tensor_certifications)
 
 [⬅️ Previous - FastAPI Fundamentals](https://app.readytensor.ai/publications/3FLDYUhZnlTu)
+[➡️ Next - Gradio for Demos](https://app.readytensor.ai/publications/pZxv9sd7Bk75)
 
 ---
