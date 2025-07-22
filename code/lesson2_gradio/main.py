@@ -12,8 +12,25 @@ from langchain_core.messages import HumanMessage, SystemMessage
 import os
 from dotenv import load_dotenv
 
-# Load environment variables
+# Load environment variables from .env in current directory
 load_dotenv()
+
+def initialize_llm():
+    """Initialize the LLM with error handling"""
+    api_key = os.getenv("GROQ_API_KEY")
+    if not api_key:
+        print("❌ ERROR: GROQ_API_KEY not found in environment variables!")
+        print("Please make sure you have a .env file with your Groq API key.")
+        exit(1)
+    
+    return ChatGroq(
+        model="llama-3.1-8b-instant",
+        temperature=0.7,
+        api_key=api_key
+    )
+
+# Initialize the LLM
+llm = initialize_llm()
 
 # Initialize the LLM
 llm = ChatGroq(
