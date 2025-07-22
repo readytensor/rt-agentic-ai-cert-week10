@@ -7,6 +7,7 @@
 [🏠 Home - All Lessons](https://app.readytensor.ai/hubs/ready_tensor_certifications)
 
 [⬅️ Previous - App Deployment on Render](https://app.readytensor.ai/publications/i3gMkNkTokWR)
+[➡️ Next - Streamlit for Demos](https://app.readytensor.ai/publications/KNnkpIlfXLoP)
 
 ---
 
@@ -24,6 +25,20 @@ Perfect for:
 
 This is not for production-scale deployment. But it’s an ideal way to showcase your work—instantly.
 
+---
+
+--DIVIDER--
+
+:::info{title="Info"}
+
+ <h2>Lesson Resources</h2>
+ 
+ **📁 Code Repository**: All the code for this lesson is available in the [attached repository](https://github.com/readytensor/rt-agentic-ai-cert-week10). You can follow along or reference the complete implementation as you build.
+ 
+ **🎥 Video Walkthrough**: Below you'll find a step-by-step video showing how to deploy your Gradio app to Hugging Face Spaces for permanent hosting.
+ 
+ :::
+ 
 ---
 
 --DIVIDER--
@@ -283,9 +298,17 @@ You can host your app with:
 - No servers
 - Just a `requirements.txt` and your `.py` file
 
-We cover that in the **video** for this lesson. It takes about 10 minutes.
+We cover that in the **video** for this lesson.
 
-[Video coming soon!]
+:::youtube[Title]{#1Hi228zVGQw}
+
+In the video, you'll learn how to:
+
+- Set up a Hugging Face Space using the Gradio SDK
+- Push your code (and requirements) using Git
+- Configure secrets like your Groq API key securely
+- Debug common runtime issues (missing requirements, missing env vars)
+- Share a public demo link with anyone
 
 ---
 
@@ -300,5 +323,14 @@ In the next lesson, we’ll explore **Streamlit** — another UI framework that 
 But for fast AI apps in a single file?
 
 Gradio is tough to beat.
+
+--DIVIDER--
+
+---
+
+[🏠 Home - All Lessons](https://app.readytensor.ai/hubs/ready_tensor_certifications)
+
+[⬅️ Previous - App Deployment on Render](https://app.readytensor.ai/publications/i3gMkNkTokWR)
+[➡️ Next - Streamlit for Demos](https://app.readytensor.ai/publications/KNnkpIlfXLoP)
 
 ---
