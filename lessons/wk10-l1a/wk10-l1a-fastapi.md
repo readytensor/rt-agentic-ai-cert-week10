@@ -11,6 +11,12 @@
 
 ---
 
+# TL;DR
+
+In this lesson, you'll learn how to turn your AI systems—whether a simple chatbot or a full RAG pipeline—into web-accessible services using FastAPI. You'll walk through two real examples: a basic LangChain+Groq chatbot, and a research assistant powered by retrieval-augmented generation. You'll learn how to expose clean API endpoints, test your app locally, generate docs automatically, and prepare your agentic system for cloud deployment.
+
+---
+
 --DIVIDER--
 
 # Making Your Agent Available: The API Pathway
