@@ -1,4 +1,4 @@
-![AAIDC-wk10-l3-streamlit.jpeg](AAIDC-wk10-l3-streamlit-v2.jpeg)
+![AAIDC-wk10-l3-streamlit-v2.jpeg](AAIDC-wk10-l3-streamlit-v2.jpeg)
 
 --DIVIDER--
 
@@ -7,6 +7,7 @@
 [🏠 Home - All Lessons](https://app.readytensor.ai/hubs/ready_tensor_certifications)
 
 [⬅️ Previous - Gradio for Demos](https://app.readytensor.ai/publications/pZxv9sd7Bk75)
+[➡️ Next - Resilience in Agentic AI](https://app.readytensor.ai/publications/S1AMb9G3IMqX)
 
 ---
 
@@ -365,5 +366,6 @@ We’re moving beyond “it works on localhost” — and into the real-world mi
 [🏠 Home - All Lessons](https://app.readytensor.ai/hubs/ready_tensor_certifications)
 
 [⬅️ Previous - Gradio for Demos](https://app.readytensor.ai/publications/pZxv9sd7Bk75)
+[➡️ Next - Resilience in Agentic AI](https://app.readytensor.ai/publications/S1AMb9G3IMqX)
 
 ---
