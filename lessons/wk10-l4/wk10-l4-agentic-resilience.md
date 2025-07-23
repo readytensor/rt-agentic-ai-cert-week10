@@ -413,7 +413,7 @@ Here’s how to decide what to do.
 
 Use this matrix to quickly identify which defensive patterns to implement based on the specific failures you're trying to prevent. Most failure modes benefit from multiple overlapping strategies — defense in depth is your friend.
 
-![matching-resilience-patterns-to-agentic-failures.png](matching-resilience-patterns-to-agentic-failures.png)
+![matching-resilience-patterns-to-agentic-failures-v2.jpeg](matching-resilience-patterns-to-agentic-failures-v2.jpeg)
 
 Remember: resilient systems combine multiple patterns rather than relying on any single defense mechanism.
 
