@@ -7,6 +7,7 @@
 [🏠 Home - All Lessons](https://app.readytensor.ai/hubs/ready_tensor_certifications)
 
 [⬅️ Previous - Streamlit for Demos](https://app.readytensor.ai/publications/KNnkpIlfXLoP)
+[➡️ Next - Agentic System Documentation Guide](https://app.readytensor.ai/publications/Al9E4GsrKoKC)
 
 ---
 
@@ -330,7 +331,7 @@ You can also log the event or surface a polite message to the user if needed.
 - Runaway token usage from looped LLM/tool calls
 - Stalled systems with no exit condition
 
-> > 💡Add debug logs inside loops to catch repetition early and set up alerts before costs spiral.
+> > 💡 Add debug logs inside loops to catch repetition early and set up alerts before costs spiral.
 
 ---
 
@@ -438,5 +439,6 @@ That’s what we’ll cover next.
 [🏠 Home - All Lessons](https://app.readytensor.ai/hubs/ready_tensor_certifications)
 
 [⬅️ Previous - Streamlit for Demos](https://app.readytensor.ai/publications/KNnkpIlfXLoP)
+[➡️ Next - Agentic System Documentation Guide](https://app.readytensor.ai/publications/Al9E4GsrKoKC)
 
 ---
