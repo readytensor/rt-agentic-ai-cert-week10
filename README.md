@@ -2,8 +2,6 @@
 
 This repository contains lesson materials and code examples for **Week 10** of the [Agentic AI Developer Certification Program](https://app.readytensor.ai/publications/HrJ0xWtLzLNt) by Ready Tensor. This is about **packaging agentic AI systems** for different audiences — from portfolio demos to production handoffs.
 
-⚠️ **Note**: This is a work-in-progress. We're actively adding code examples and documentation to this repository. Stay tuned for updates!
-
 ---
 
 ## What You'll Learn
