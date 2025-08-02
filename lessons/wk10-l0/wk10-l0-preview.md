@@ -2,6 +2,17 @@
 
 --DIVIDER--
 
+---
+
+[🏠 Home - All Lessons](https://app.readytensor.ai/hubs/ready_tensor_certifications)
+
+[⬅️ Previous - Agentic System Testing Case Study](https://app.readytensor.ai/publications/uDLdzgPAQ5BZ)
+[➡️ Next - FastAPI Fundamentals](https://app.readytensor.ai/publications/3FLDYUhZnlTu)
+
+---
+
+--DIVIDER--
+
 # TLDR
 
 This lesson previews your options for packaging agentic AI systems: demo showcases for portfolios or production handoffs for enterprise teams.
@@ -80,5 +91,16 @@ By the end of this week, you'll have:
 Your agentic AI system is no longer just working code.
 
 It's a **professionally packaged solution** ready for its next chapter, whether that's landing you a job or powering enterprise applications.
+
+---
+
+--DIVIDER--
+
+---
+
+[🏠 Home - All Lessons](https://app.readytensor.ai/hubs/ready_tensor_certifications)
+
+[⬅️ Previous - Agentic System Testing Case Study](https://app.readytensor.ai/publications/uDLdzgPAQ5BZ)
+[➡️ Next - FastAPI Fundamentals](https://app.readytensor.ai/publications/3FLDYUhZnlTu)
 
 ---
