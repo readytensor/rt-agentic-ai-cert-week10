@@ -7,6 +7,7 @@
 [🏠 Home - All Lessons](https://app.readytensor.ai/hubs/ready_tensor_certifications)
 
 [⬅️ Previous - Resilience in Agentic AI](https://app.readytensor.ai/publications/S1AMb9G3IMqX)
+[➡️ Next - Week 11 Preview](https://app.readytensor.ai/publications/dkWUcl9DJl6b)
 
 ---
 
@@ -365,5 +366,6 @@ ML Ops, platform teams, long-term maintainers, project owners
 [🏠 Home - All Lessons](https://app.readytensor.ai/hubs/ready_tensor_certifications)
 
 [⬅️ Previous - Resilience in Agentic AI](https://app.readytensor.ai/publications/S1AMb9G3IMqX)
+[➡️ Next - Week 11 Preview](https://app.readytensor.ai/publications/dkWUcl9DJl6b)
 
 ---
